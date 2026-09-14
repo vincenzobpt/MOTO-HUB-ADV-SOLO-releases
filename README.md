@@ -88,10 +88,23 @@ Open `Settings ▸ Modules` inside the app, install the Android Auto module, and
 
 1. Download the APK from [Releases](../../releases/latest).
 2. Enable "Install unknown apps" for your browser or file manager when Android asks.
-3. Install it, open it, and pair with your motorcycle's T-Box.
+3. Install it (blocked by Play Protect? [see below](#app-blocked-to-protect-your-device--google-play-protect)), open it, and pair with your motorcycle's T-Box.
 4. Optional: `Settings ▸ Modules` to add Android Auto.
 
 Requires **Android 14 or newer**. The app checks this page for its own updates and can install them for you.
+
+### "App blocked to protect your device" — Google Play Protect
+
+On some phones Play Protect refuses the install with only a **Got it** button. **This is not a malware detection.** Google blocks every app installed from a browser, messaging app or file manager if it asks for notification access or accessibility. ADV-SOLO uses notification access for the Now Playing widget and accessibility for HID handlebar remotes, and both stay off until you grant them yourself.
+
+To install anyway:
+
+1. Open the **Play Store**, tap your profile picture, then **Play Protect** → ⚙️ (top right).
+2. Turn off **Scan apps with Play Protect**.
+3. Install the ADV-SOLO APK.
+4. Go back and turn **Scan apps with Play Protect** on again.
+
+If an update is blocked the same way, repeat these steps.
 
 ## Privacy
 
