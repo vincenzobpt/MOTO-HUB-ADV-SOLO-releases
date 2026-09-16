@@ -70,6 +70,10 @@ Motorcycle **navigation** with curvy routes and loop rides, **trips** recorded w
 | **Screen mirroring** and **Android Auto** on the TFT | — | ✅ |
 | The **bike's own handlebar buttons** driving the app | — | ✅ |
 
+## Coming from MOTO-HUB CORE + ADVANCED?
+
+**ADVANCED is retired, and ADV-SOLO replaces both apps.** Install ADV-SOLO: it brings over your motorcycles, rides, audio notes, places, keys and settings from ADVANCED, then asks you to remove ADVANCED and CORE. Android Auto is a module here, one tap away in **Settings ▸ Modules**.
+
 ## Free, forever
 
 **MOTO-HUB ADV-SOLO is a free app, and it always will be.** Every feature on this page is in the download, for everyone, today:
