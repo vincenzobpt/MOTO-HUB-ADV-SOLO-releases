@@ -13,7 +13,7 @@
 [![Any motorcycle](https://img.shields.io/badge/works%20on-any%20motorcycle-2ea44f)](#not-just-a-tft-app)
 [![Android 14+](https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white)](#installation)
 [![10 languages](https://img.shields.io/badge/languages-10-orange)](#-and-the-rest-of-the-toolbox)
-[![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/jYv7Z2chtP)
+[![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
 
 <img src="https://raw.githubusercontent.com/vincenzobpt/MOTO-HUB/main/media/phone-trip-replay.png" alt="A ride replayed in 3D on the phone" height="300">
 &nbsp;
@@ -39,7 +39,7 @@ Motorcycle **navigation** with curvy routes and loop rides, **trips** recorded w
 
 **Every rider here is on Discord.** Get help when something misbehaves, try early builds, and help decide what gets built next.
 
-[![Join the MOTO-HUB Discord](https://img.shields.io/badge/JOIN%20THE%20MOTO--HUB%20DISCORD-support%20·%20community%20·%20new%20builds-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jYv7Z2chtP)
+[![Join the MOTO-HUB Discord](https://img.shields.io/badge/JOIN%20THE%20MOTO--HUB%20DISCORD-support%20·%20community%20·%20new%20builds-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
 
 </div>
 
@@ -283,7 +283,7 @@ For the TFT features, the dashboard matters. Development happens on a CFMOTO 700
 
 <sub>Community report, 16 Sep 2026.</sub>
 
-**Your motorcycle isn't on the list, or has no screen at all?** Everything in [For every rider, on any motorcycle](#for-every-rider-on-any-motorcycle) still works. For the TFT, a missing bike only means nobody has told us yet. If its dashboard shows a pairing QR code, try it and [tell us on Discord](https://discord.gg/jYv7Z2chtP). The app can send a diagnostic log that explains exactly what happened.
+**Your motorcycle isn't on the list, or has no screen at all?** Everything in [For every rider, on any motorcycle](#for-every-rider-on-any-motorcycle) still works. For the TFT, a missing bike only means nobody has told us yet. If its dashboard shows a pairing QR code, try it and [tell us on Discord](https://discord.gg/FzhXZtPhC8). The app can send a diagnostic log that explains exactly what happened.
 
 <br clear="right">
 
@@ -336,7 +336,7 @@ MOTO-HUB is an experimental proof-of-concept, not a production-grade product. Be
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/JOIN%20US%20ON%20DISCORD-support%20·%20community%20·%20development-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jYv7Z2chtP)
+[![Discord](https://img.shields.io/badge/JOIN%20US%20ON%20DISCORD-support%20·%20community%20·%20development-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
 
 </div>
 
