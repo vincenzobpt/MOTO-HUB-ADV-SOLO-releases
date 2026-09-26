@@ -12,14 +12,13 @@
 [![Free forever](https://img.shields.io/badge/price-free%20forever-2ea44f)](#free-forever)
 [![Any motorcycle](https://img.shields.io/badge/works%20on-any%20motorcycle-2ea44f)](#not-just-a-tft-app)
 [![Android 14+](https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white)](#installation)
-[![10 languages](https://img.shields.io/badge/languages-10-orange)](#-and-the-rest-of-the-toolbox)
+[![11 languages](https://img.shields.io/badge/languages-11-orange)](#-and-the-rest-of-the-toolbox)
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
+[![Website](https://img.shields.io/badge/website-motohub.techub.eu-111111)](https://motohub.techub.eu)
 
-<img src="https://raw.githubusercontent.com/vincenzobpt/MOTO-HUB/main/media/phone-trip-replay.png" alt="A ride replayed in 3D on the phone" height="300">
-&nbsp;
-<img src="https://raw.githubusercontent.com/vincenzobpt/MOTO-HUB/main/media/tft-ride-dashboard.png" alt="The Ride Dashboard on a motorcycle TFT" height="300">
+<img src="media/phone-dash-visor.webp" alt="The Visor dashboard full screen on a phone: a 3D rider's-eye view of a mountain road with speed, trip and altitude" width="820">
 <br>
-<sub>On the phone, on any motorcycle &middot; on the bike's TFT, when it has a compatible one.</sub>
+<sub>The Ride Dashboard full screen on the phone, on any motorcycle &middot; and on the bike's TFT, when it has a compatible one.</sub>
 
 Motorcycle **navigation** with curvy routes and loop rides, **trips** recorded with full telemetry and replayed in 3D, a **Riding Coach**, a full **engine analysis** from a cheap OBD adapter, **AI place discovery** and **group intercom**. **All from your phone, whatever you ride.**
 
@@ -32,6 +31,8 @@ Motorcycle **navigation** with curvy routes and loop rides, **trips** recorded w
 [![Download MOTO-HUB ADV-SOLO](https://img.shields.io/badge/Download%20MOTO--HUB%20ADV--SOLO-free%20forever-e10600?style=for-the-badge&logo=android&logoColor=white)](https://github.com/vincenzobpt/MOTO-HUB-ADV-SOLO-releases/releases/latest)
 
 <sub>On the release page, expand <b>Assets</b> and download the file ending in <code>.apk</code>.</sub>
+
+🌐 **[motohub.techub.eu](https://motohub.techub.eu)**: a step-by-step [getting started guide](https://motohub.techub.eu/start.html), release notes and the [community dashboard gallery](https://motohub.techub.eu/dashboards.html).
 
 <br>
 
@@ -63,8 +64,9 @@ Motorcycle **navigation** with curvy routes and loop rides, **trips** recorded w
 | **Group intercom**: voice, music and directions rider to rider | ✅ | ✅ |
 | **Audio notes** pinned to your trips | ✅ | ✅ |
 | **Bluetooth handlebar remotes** such as the LIVALL BR80 | ✅ | ✅ |
+| **Ride Dashboard full screen on the phone**, with on-screen keys | ✅ | ✅ |
 | **Companion display**: a phone on the bars as your dashboard | ✅ | ✅ |
-| **Home Assistant**, **backup & restore**, **10 languages** | ✅ | ✅ |
+| **Home Assistant**, **backup & restore**, **11 languages** | ✅ | ✅ |
 | **Ride Dashboard and roadbook** drawn on the bike's TFT | — | ✅ |
 | **OBD engine cluster** on the TFT in four styles | — | ✅ |
 | **Screen mirroring** and **Android Auto** on the TFT | — | ✅ |
@@ -183,6 +185,22 @@ Ask for "a scenic pass with a café at the top" and let the AI tab rank real Ope
   <img src="https://raw.githubusercontent.com/vincenzobpt/MOTO-HUB/main/media/phone-audio-notes.png" alt="Audio notes pinned to a trip" width="230">
 </div>
 
+### 📱 No TFT? Your phone is the dashboard
+
+Start the **Ride Dashboard on the phone** and it opens full screen, looking the way it does on a bike's TFT: live map, 3D rider's-eye view, speed, trip and weather, with the screen kept on.
+
+- **Fill or TFT shape:** fill the whole phone screen, or keep the exact shape of a bike's screen. In TFT shape, the black bands hold **UP, DOWN, OK and BACK** keys.
+- **Command bar:** one tap shows Stop, Day/Night, Fill/TFT, Lock, Keys, App and the dashboard switcher.
+- **Its own dashboard:** the phone keeps its own choice, separate from the bike's. Switching takes about a second, and your trip, GPS and weather keep running.
+- **Landscape or portrait**, and a button in the Ride tab takes you straight back to it.
+
+<div align="center">
+  <img src="media/phone-dash-keys.webp" alt="On-screen UP, DOWN, OK and BACK keys in the black bands around a 3D dashboard kept in TFT shape" width="410">
+  <img src="media/phone-dash-switcher.webp" alt="The dashboard switcher sliding up over a running Ride Dashboard, with OpenStreetMap, MapLibre, 3D POV, Split and OBD Classic" width="410">
+  <br>
+  <sub>TFT shape with on-screen keys &middot; switching dashboard mid-ride.</sub>
+</div>
+
 ### 🎮 Bluetooth handlebar remotes
 
 No buttons on your bike? Add a **Bluetooth handlebar remote** such as the LIVALL BR80. Profiles come from a community catalogue, learning a new remote takes one guided pass, and a known remote reconnects as soon as you press a button, even with the screen off. The remote works without any TFT: put the **Ride Dashboard** or **Android Auto** view on the phone and drive it from the bars.
@@ -193,7 +211,7 @@ No buttons on your bike? Add a **Bluetooth handlebar remote** such as the LIVALL
 - **Home Assistant:** position, engine data and fault codes sent to your own server during the ride.
 - **Backup & restore:** your garage, layouts, calibrations, rides, places, keys and installed modules in one file, ready for a new phone.
 - **Settings you can find:** every setting has a number, and search works by number or by name.
-- **10 languages:** English, Italian, Spanish, French, Portuguese, German, Dutch, Czech, Turkish and Korean.
+- **11 languages:** English, Italian, Spanish, French, Portuguese, German, Dutch, Czech, Turkish, Russian and Korean.
 - **In-app updates** that ask before using mobile data, **diagnostics** you can share as a file, and a **Credits** page with every licence.
 
 ## And on your bike's TFT
@@ -229,8 +247,16 @@ A native, configurable riding scene rendered straight on the TFT: GPS speed, liv
 
 With a route running, the full-screen dashboard becomes a **roadbook**: street name, the next turns, **how the road bends over the next 1.5 km**, the climb ahead, fuel range and time to sunset. Portrait dashboards get their own layout, and **Roadbook** and **Curve tape** also come as panel widgets.
 
+Pick a dashboard from the ones built in, or install more from the **[community gallery](https://motohub.techub.eu/dashboards.html)**: `Community ▸ Install & use`, or import a `.mhd` file.
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vincenzobpt/MOTO-HUB/main/media/tft-dashboard-aa.png" alt="Android Auto embedded inside the Ride Dashboard map panel" width="560">
+  <img src="media/phone-dash-maplibre.webp" alt="The built-in Ride Dashboard with a MapLibre map, trip stats and the status rail" width="410">
+  <img src="media/phone-dash-split.webp" alt="The Split dashboard with location, map and GPS speed" width="410">
+  <br>
+  <img src="media/phone-dash-player-one.webp" alt="The Player One community dashboard, an 8-bit game over a 3D view of the road" width="410">
+  <img src="media/phone-dash-nouveau.webp" alt="The Nouveau community dashboard with art-nouveau gauges" width="410">
+  <br>
+  <sub>Built-in MapLibre and Split layouts &middot; Player One and Nouveau from the community. Shown here on a phone; the TFT gets the same scene.</sub>
 </div>
 
 ### 🔧 OBD dashboard, four styles
@@ -302,6 +328,8 @@ Open `Settings ▸ Modules`, install the Android Auto module, and the TFT gains 
 
 Requires **Android 14 or newer**. The app checks this page for its own updates and can install them for you.
 
+First time? The [getting started guide](https://motohub.techub.eu/start.html) walks you through it: phone only, with a TFT, or with an OBD adapter.
+
 ### "App blocked to protect your device" — Google Play Protect
 
 On some phones Play Protect refuses the install with only a **Got it** button. **This is not a malware detection.** Google blocks every app installed from a browser, messaging app or file manager if it asks for notification access or accessibility. ADV-SOLO uses notification access for the Now Playing widget and accessibility for HID handlebar remotes. Both stay off until you grant them yourself.
@@ -339,6 +367,8 @@ MOTO-HUB is an experimental proof-of-concept, not a production-grade product. Be
 [![Discord](https://img.shields.io/badge/JOIN%20US%20ON%20DISCORD-support%20·%20community%20·%20development-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
 
 </div>
+
+News, release notes and the dashboard gallery are on **[motohub.techub.eu](https://motohub.techub.eu)**.
 
 ## License
 
