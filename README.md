@@ -216,7 +216,7 @@ No buttons on your bike? Add a **Bluetooth handlebar remote** such as the LIVALL
 
 ## And on your bike's TFT
 
-If your motorcycle has an **EasyConn / Carbit dashboard** (the kind that shows a pairing QR code), MOTO-HUB also takes over the screen. Brands riders have tested so far include **CFMOTO, Zontes, QJMOTOR, VOGE, KOVE, Benelli, Moto Morini, Morbidelli, Longjia and Cyclone**.
+If your motorcycle has an **EasyConn / Carbit dashboard** (the kind that shows a pairing QR code), MOTO-HUB also takes over the screen. Brands riders have tested so far include **CFMOTO, Zontes, QJMOTOR, VOGE, KOVE, Benelli, Moto Morini, Morbidelli, Longjia, Cyclone, Italjet and Keeway**.
 
 ### 🔌 Connect your motorcycle
 
@@ -294,20 +294,20 @@ A one-time guided calibration learns what *your* bike actually sends. Then press
 
 <img src="media/phone-about.gif" alt="The About page turning the key: the rev needle sweeps, the adventure bike lights up and the version rolls like an odometer" width="260" align="right">
 
-For the TFT features, the dashboard matters. Development happens on a CFMOTO 700MT-ADV, and **riders have tested the TFT link on 47 motorcycle models from 10 brands**: 26 work, 13 work with caveats and 8 don't work yet.
+For the TFT features, the dashboard matters. Development happens on a CFMOTO 700MT-ADV, and **riders have tested the TFT link on 64 motorcycle models from 12 brands**: 33 work, 21 work with caveats and 10 don't work yet.
 
 | Brand | Models tested |
 | --- | :---: |
 | CFMOTO | 14 |
-| Zontes | 7 |
-| QJMOTOR | 7 |
+| QJMOTOR | 10 |
+| Zontes | 9 |
+| KOVE | 8 |
+| Benelli | 6 |
 | VOGE | 5 |
-| KOVE | 5 |
-| Benelli | 3 |
-| Moto Morini | 3 |
-| Morbidelli · Longjia · Cyclone | 3 |
+| Moto Morini | 5 |
+| Morbidelli · Longjia · Cyclone · Italjet · Keeway | 7 |
 
-<sub>Community report, 16 Sep 2026.</sub>
+<sub>Community report, 14 Oct 2026.</sub>
 
 **Your motorcycle isn't on the list, or has no screen at all?** Everything in [For every rider, on any motorcycle](#for-every-rider-on-any-motorcycle) still works. For the TFT, a missing bike only means nobody has told us yet. If its dashboard shows a pairing QR code, try it and [tell us on Discord](https://discord.gg/FzhXZtPhC8). The app can send a diagnostic log that explains exactly what happened.
 
