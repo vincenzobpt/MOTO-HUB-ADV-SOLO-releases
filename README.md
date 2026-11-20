@@ -14,6 +14,7 @@
 [![Android 14+](https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white)](#installation)
 [![11 languages](https://img.shields.io/badge/languages-11-orange)](#-and-the-rest-of-the-toolbox)
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/FzhXZtPhC8)
+[![Facebook](https://img.shields.io/badge/Facebook-follow%20the%20page-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/motohub.techub.eu/)
 [![Website](https://img.shields.io/badge/website-motohub.techub.eu-111111)](https://motohub.techub.eu)
 
 <img src="media/phone-dash-visor.webp" alt="The Visor dashboard full screen on a phone: a 3D rider's-eye view of a mountain road with speed, trip and altitude" width="820">
